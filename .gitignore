@@ -1,0 +1,10 @@
+*.pyc
+.env
+venv*.pyc*.pyc
+.env
+venv
+.directory
+.env
+venv
+.directory
+.directory
